@@ -17,7 +17,7 @@ client.on("guildMemberAdd", member => {
 لا تجزع وكُن قوياً إجمع شُتاتك وقِف مُستقيماً إصبر 
 قد يأتي مساءً يمحِي وجع الأمس وفرحاً يُنسيك مُر الأيام 
 طابَ مسائك وطابت أوجاعُ  | تنورنا يبعدي قلبي.  
-You're In  **Energy** ,  Welcome ..
+*Welcome To* **Spirrrit** .
     https://discord.gg/rtCGVun   `]
   setTimeout(() =>{
   member.createDM().then(function (channel) {
