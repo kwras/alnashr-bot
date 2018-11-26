@@ -1,0 +1,2 @@
+node AnviteBy.js
+-pause
