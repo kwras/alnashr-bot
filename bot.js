@@ -23,7 +23,7 @@ client.on("guildMemberAdd", member => {
   return channel.send(`${words[Math.floor(Math.random() * words.length)]}`) 
 }).catch(console.error)
 }, timer)
-30000 })
+10000 })
 
 
 
