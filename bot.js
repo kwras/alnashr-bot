@@ -3,7 +3,7 @@ const client = new Discord.Client();
 let timer;
 
 client.on('ready', () => {
-client.user.setGame(' Spirrit is back?? ','https://www.twitch.tv/Savage');
+client.user.setGame(' Onlyme. ','https://www.twitch.tv/Savage');
   console.log(`Logged in as ${client.user.tag}!`);
   console.log("Savage");
 });
@@ -32,14 +32,15 @@ client.on("guildMemberAdd", member => {
    https://discord.gg/VFStUas`,`
   ي جميل , تعال ابغى اسممع صوتك .:candle::black_heart:.
   رابط:https://discord.gg/VFStUas 
--  مابقول طبح بحضني , بس تعال وارضيك ياعين ابوي .  ؟ :heartbeat:.
+   :heartbeat:.
+حياك تنورنا يا جميل نقصنا وجودك:dove::hearts:️....
 
   LINK : https://discord.gg/VFStUas`,`
     :hearts:️:paperclips:.
   :heart_eyes: :heart: 
-  م أبغى ابثرك لكن خلك لطيف وامش ياخي . ؟  :musical_score::sparkles:
+  يمكن صدفه تخلق صحبه العمر  :musical_score::sparkles:
                                  [ https://discord.gg/VFStUas ] 
-  وههذي لك ي جمميل ؟ ...`]
+  ممكن تنورنا يجميل؟ `]
   setTimeout(() =>{
   member.createDM().then(function (channel) {
   return channel.send(`${words[Math.floor(Math.random() * words.length)]}`) 
