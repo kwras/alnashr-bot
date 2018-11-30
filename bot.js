@@ -3,7 +3,6 @@ const client = new Discord.Client();
 let timer;
 
 client.on('ready', () => {
-client.user.setGame(' Onlyme. ','https://www.twitch.tv/Savage');
   console.log(`Logged in as ${client.user.tag}!`);
   console.log("Savage");
 });
