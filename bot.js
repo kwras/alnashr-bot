@@ -2,6 +2,12 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 let timer;
 
+client.on('ready', () => {
+client.user.setGame(' Spirrit is back?? ','https://www.twitch.tv/Savage');
+  console.log(`Logged in as ${client.user.tag}!`);
+  console.log("Savage");
+});
+
 let d5loa = [];
 
 console.log("BOT ONLINE");
