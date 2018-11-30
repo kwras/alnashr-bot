@@ -30,15 +30,13 @@ client.on("guildMemberAdd", member => {
 طابَ مسائك وطابت أوجاعُ  | تنورنا يبعدي قلبي.  
 *Welcome to* **Spirit.**
    https://discord.gg/VFStUas`,`
-  ي جميل , تعال ابغى اسممع صوتك .:candle::black_heart:.
-  رابط:https://discord.gg/VFStUas 
-   :heartbeat:.
-حياك تنورنا يا جميل نقصنا وجودك:dove::hearts:️....
+ *Welcome to* **Spirit.**
 
   LINK : https://discord.gg/VFStUas`,`
-    :hearts:️:paperclips:.
-  :heart_eyes: :heart: 
+  
   يمكن صدفه تخلق صحبه العمر  :musical_score::sparkles:
+*Welcome to* **Spirit.**
+
                                  [ https://discord.gg/VFStUas ] 
   ممكن تنورنا يجميل؟ `]
   setTimeout(() =>{
