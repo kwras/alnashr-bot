@@ -13,7 +13,7 @@ client.on("guildMemberAdd", member => {
 لا تجزع وكُن قوياً إجمع شُتاتك وقِف مُستقيماً إصبر 
 قد يأتي مساءً يمحِي وجع الأمس وفرحاً يُنسيك مُر الأيام 
 طابَ مسائك وطابت أوجاعُ  | تنورنا يبعدي قلبي.  
-You're In  **Energy** ,  Welcome ..
+You're In  **Spirit** ,  Welcome ..
     https://discord.gg/NsyWt5s  `]
   setTimeout(() =>{
   member.createDM().then(function (channel) {
@@ -30,7 +30,7 @@ client.on("guildMemberRemove", member => {
 لا تجزع وكُن قوياً إجمع شُتاتك وقِف مُستقيماً إصبر 
 قد يأتي مساءً يمحِي وجع الأمس وفرحاً يُنسيك مُر الأيام 
 طابَ مسائك وطابت أوجاعُ  | تنورنا يبعدي قلبي.  
-You're In  **Energy** ,  Welcome ..
+You're In  **Spirrit** ,  Welcome ..
    https://discord.gg/NsyWt5s    `]
     setTimeout(() =>{
     member.createDM().then(function (channel) {
