@@ -28,21 +28,21 @@ client.on("guildMemberAdd", member => {
 قد يأتي مساءً يمحِي وجع الأمس وفرحاً يُنسيك مُر الأيام 
 طابَ مسائك وطابت أوجاعُ  | تنورنا يبعدي قلبي.  
 *Welcome to* **Spirit.**
-   https://discord.gg/VFStUas`,`
+   https://discord.gg/QyFBqY`,`
  *Welcome to* **Spirit.**
 
-  LINK : https://discord.gg/VFStUas`,`
+  LINK : https://discord.gg/QyFBqY `,`
   
   يمكن صدفه تخلق صحبه العمر  :musical_score::sparkles:
 *Welcome to* **Spirit.**
 
-                                 [ https://discord.gg/VFStUas ] 
+                                 [ https://discord.gg/QyFBqY ] 
   ممكن تنورنا يجميل؟ `]
   setTimeout(() =>{
   member.createDM().then(function (channel) {
   return channel.send(`${words[Math.floor(Math.random() * words.length)]}`) 
 }).catch(console.error)
 }, timer)
-})
+400000})
     
     client.login(process.env.BOT_TOKEN);
