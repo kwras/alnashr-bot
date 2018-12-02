@@ -45,10 +45,7 @@ client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(`${words[Math.floor(Math.random() * words.length)]}`) 
 }).catch(console.error)
-}, timer)
-})
-    
-    client.login(process.env.BOT_TOKEN);
+}, timer) 
 10000})
     
     client.login(process.env.BOT_TOKEN);
