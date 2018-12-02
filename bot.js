@@ -46,9 +46,6 @@ client.on("guildMemberAdd", member => {
   return channel.send(`${words[Math.floor(Math.random() * words.length)]}`) 
 }).catch(console.error)
 }, timer)
-})
-    
-    client.login(process.env.BOT_TOKEN);
 10000})
     
     client.login(process.env.BOT_TOKEN);
